@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-This is my grade 11 computer science project, where I made Tic Tac Toe. It can be a two-player game or single-player, where you can verse against my unbeatable code.
+This is my grade 11 computer science project, where I created Tic Tac Toe. It can be a two-player game or single-player, where you can verse against my unbeatable code.
 
 My code effectively uses a control flow to procced the user through the game. The main elements of the program are loops, methods, global variables, producing output and reading input. 
 
